@@ -1,2 +1,2 @@
-> [!note] Observacion
+> [!note]
 > Observación
